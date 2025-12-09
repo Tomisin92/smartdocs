@@ -1,0 +1,17 @@
+# backend/lma_baseline.yaml
+topics:
+  covenants:
+    expected: true
+    description: "Financial and information covenants aligned with LMA investment-grade standard."
+  events_of_default:
+    expected: true
+    description: "Standard LMA events of default including non-payment, breach of covenant, insolvency, etc."
+  transferability:
+    expected: true
+    description: "Standard restrictions on assignment and transfer, aligned with LMA norms."
+  sanctions:
+    expected: true
+    description: "Sanctions and anti-money laundering provisions aligned with market practice."
+  esg:
+    expected: false
+    description: "Optional ESG/green features; absence not necessarily a default risk."
