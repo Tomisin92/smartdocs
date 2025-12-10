@@ -248,7 +248,7 @@ The Electron desktop window will open, displaying your SmartDocs app as a native
 **Example**: Oglebay Norton Company Credit Agreement
 
 - **Document**: 150+ page LMA-style credit agreement
-- **Processing Time**: ~1.5 minutes (vs. 4+ hours manual review)
+- **Processing & Review Time**: ~15 minutes (vs. 4+ hours manual review)
 
 ### Analysis Dashboard
 
@@ -387,7 +387,7 @@ Then configure in `.env` or Netlify UI.
 ## Commercial Viability
 
 ### Value Proposition
-- **Time Savings**: 94% reduction in document review time (4+ hours → ~1.5 minutes)
+- **Time Savings**: 94% reduction in document review time (4+ hours → 15 minutes)
 - **Cost Savings**: $200-400 per document at typical analyst rates
 - **Risk Reduction**: Consistent, comprehensive analysis reduces missed clauses
 - **Scalability**: Process high volumes during peak lending periods
