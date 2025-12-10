@@ -2,3 +2,5 @@ node_modules/
 dist/
 .env
 backend/smartdocenv/
+__pycache__/
+*.pyc
