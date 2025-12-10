@@ -272,6 +272,7 @@ The analysis delivered:
 Each clause can be expanded to reveal comprehensive details:
 
 ![Clause Detail View](images/clause-detail-full.png)
+
 *Comprehensive detail view showing multi-dimensional risk scores (Legal/Compliance/Operational), full text excerpt, AI-generated analysis rationale, and recommended negotiation position*
 
 **Key Features Demonstrated**:
