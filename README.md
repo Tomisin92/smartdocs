@@ -248,7 +248,7 @@ The Electron desktop window will open, displaying your SmartDocs app as a native
 **Example**: Oglebay Norton Company Credit Agreement
 
 - **Document**: 150+ page LMA-style credit agreement
-- **Processing Time**: ~1.5 minutes (vs. 4+ hours manual review)
+- **Processing & Review Time**: ~15 minutes (vs. 4+ hours manual review)
 
 ### Analysis Dashboard
 
@@ -272,6 +272,7 @@ The analysis delivered:
 Each clause can be expanded to reveal comprehensive details:
 
 ![Clause Detail View](images/clause-detail-full.png)
+
 *Comprehensive detail view showing multi-dimensional risk scores (Legal/Compliance/Operational), full text excerpt, AI-generated analysis rationale, and recommended negotiation position*
 
 **Key Features Demonstrated**:
